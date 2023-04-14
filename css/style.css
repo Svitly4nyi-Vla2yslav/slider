@@ -1,0 +1,16 @@
+body {
+    position: relative;
+  background-image: url(/img/bg_desktop.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.container {
+    position: absolute;
+    right: 25%;
+   width: 700px;
+   height: 600px;
+}
+.slider{
+    padding-left: 28px;
+}
